@@ -1,0 +1,22 @@
+start_date,end_date,created_on,lat,lon,l1,l2,l3,rooms,bedrooms,bathrooms,surface_total,surface_covered,price,currency,title,description,propertytype,operation_type
+2019-10-17,2019-12-23,2019-10-17,-34.6058798,-58.3849491,Argentina,Capital Federal,San Cristobal,7.0,7.0,2.0,140.0,140.0,153000.0,USD,Venta semipiso centro ideal hostel,Departamento,Venta
+2019-10-17,2019-11-21,2019-10-17,-34.6240556,-58.4121102,Argentina,Capital Federal,Boedo,2.0,1.0,2.0,70.0,58.0,159000.0,USD,Espectacular PH reciclado en Boedo,PH,Venta
+2019-10-17,2019-11-01,2019-10-17,-34.593569,-58.427474,Argentina,Capital Federal,Palermo,2.0,1.0,1.0,45.0,45.0,125000.0,USD,Depto.tipo casa de 2 ambientes en Venta en Palermo,PH,Venta
+2019-10-17,2019-12-23,2019-10-17,-34.5812941,-58.4367541,Argentina,Capital Federal,Palermo,2.0,1.0,1.0,85.0,50.0,295000.0,USD,COSTA RICA 5800 / PALERMO HOLLYWOOD / VENTA PH 2 AMBIENTES,PH,Venta
+2019-10-18,2019-12-01,2019-10-18,-34.605379,-58.384950,Argentina,Capital Federal,San Cristobal,6.0,6.0,2.0,130.0,130.0,145000.0,USD,Amplio semipiso en San Cristobal,Departamento,Venta
+2019-10-19,2019-12-10,2019-10-19,-34.6250556,-58.4131102,Argentina,Capital Federal,Boedo,3.0,2.0,2.0,80.0,65.0,170000.0,USD,PH en Boedo con jardín,PH,Venta
+2019-10-20,2019-11-20,2019-10-20,-34.594569,-58.426474,Argentina,Capital Federal,Palermo,2.0,1.0,1.0,50.0,50.0,130000.0,USD,PH con balcón en Palermo,PH,Venta
+2019-10-21,2019-12-25,2019-10-21,-34.5822941,-58.4377541,Argentina,Capital Federal,Palermo,3.0,2.0,1.0,95.0,55.0,310000.0,USD,PH de 3 ambientes en Palermo Hollywood,PH,Venta
+2019-10-22,2019-11-30,2019-10-22,-34.6068798,-58.3859491,Argentina,Capital Federal,San Cristobal,7.0,7.0,2.0,140.0,140.0,155000.0,USD,Venta semipiso con cochera en San Cristobal,Departamento,Venta
+2019-10-23,2019-12-05,2019-10-23,-34.6260556,-58.4141102,Argentina,Capital Federal,Boedo,2.0,1.0,2.0,75.0,60.0,165000.0,USD,PH reciclado con terraza en Boedo,PH,Venta
+2019-10-24,2019-11-15,2019-10-24,-34.595569,-58.428474,Argentina,Capital Federal,Palermo,2.0,1.0,1.0,47.0,47.0,128000.0,USD,Depto. tipo casa en venta en Palermo,PH,Venta
+2019-10-25,2019-12-10,2019-10-25,-34.5832941,-58.4387541,Argentina,Capital Federal,Palermo,2.0,1.0,1.0,87.0,52.0,300000.0,USD,PH 2 ambientes en Palermo Hollywood,PH,Venta
+2019-10-26,2019-11-25,2019-10-26,-34.606379,-58.386950,Argentina,Capital Federal,San Cristobal,6.0,6.0,2.0,135.0,135.0,150000.0,USD,Semipiso en San Cristobal con patio,Departamento,Venta
+2019-10-27,2019-12-15,2019-10-27,-34.6270556,-58.4151102,Argentina,Capital Federal,Boedo,3.0,2.0,2.0,85.0,70.0,175000.0,USD,PH en Boedo con parrilla,PH,Venta
+2019-10-28,2019-11-20,2019-10-28,-34.596569,-58.429474,Argentina,Capital Federal,Palermo,2.0,1.0,1.0,48.0,48.0,132000.0,USD,PH en venta en Palermo,PH,Venta
+2019-10-29,2019-12-20,2019-10-29,-34.5842941,-58.4397541,Argentina,Capital Federal,Palermo,3.0,2.0,1.0,90.0,60.0,320000.0,USD,PH 3 ambientes en Palermo Hollywood,PH,Venta
+2019-10-30,2019-11-30,2019-10-30,-34.6078798,-58.3879491,Argentina,Capital Federal,San Cristobal,7.0,7.0,2.0,145.0,145.0,158000.0,USD,Venta semipiso con patio en San Cristobal,Departamento,Venta
+2019-10-31,2019-12-05,2019-10-31,-34.6280556,-58.4161102,Argentina,Capital Federal,Boedo,2.0,1.0,2.0,78.0,63.0,160000.0,USD,PH reciclado en Boedo con balcón,PH,Venta
+2019-11-01,2019-11-20,2019-11-01,-34.597569,-58.430474,Argentina,Capital Federal,Palermo,2.0,1.0,1.0,49.0,49.0,135000.0,USD,Depto. tipo casa en Palermo,PH,Venta
+2019-11-02,2019-12-15,2019-11-02,-34.5852941,-58.4407541,Argentina,Capital Federal,Palermo,2.0,1.0,1.0,89.0,54.0,310000.0,USD,PH de 2 ambientes en Palermo Hollywood,PH,Venta
+2019-11-03,2019-12-10,2019-11-03,-34.608379,-58.388950,Argentina,Capital Federal,San Cristobal,6.0,6.0,2.0,138.0,138.0,152000.0,USD,Semipiso en San Cristobal con cochera,Departamento,Venta
