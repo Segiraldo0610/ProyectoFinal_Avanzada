@@ -1,0 +1,13 @@
+Resultados en el conjunto de entrenamiento:
+Pendiente: -5796.48
+Intersección: 196693
+Error Cuadrático Medio (MSE): 3.64089e+09
+Coeficiente de Determinación (R²): 0.0367263
+
+Resultados en el conjunto de prueba:
+Error Cuadrático Medio (MSE): 8.36521e+09
+Coeficiente de Determinación (R²): -0.400344
+
+Análisis de los resultados:
+El modelo parece ajustarse bien en el conjunto de entrenamiento, pero es importante comparar los resultados del MSE y R² en el conjunto de prueba para evaluar su capacidad de generalización.
+El modelo podría estar sobreajustado al conjunto de entrenamiento, lo que indica que su rendimiento en datos no vistos (conjunto de prueba) es peor. Se podría considerar regularizar el modelo o agregar más datos de entrenamiento para mejorar la generalización.
